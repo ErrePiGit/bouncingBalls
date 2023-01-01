@@ -1,0 +1,39 @@
+.title {
+    font-family: Tahoma, san-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: #DDDDDD;
+}
+
+body {
+    background-color: #333333;
+}
+
+.constructionN {
+    font-family: Tahoma, san-serif;
+    font-size: 20px;
+    font-variant: small-caps;
+    text-align: center;
+    color: #DDDDDD;
+}
+
+.constructionI {
+
+    font-family: Tahoma, san-serif;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    color: #DDDDDD;
+
+}
+
+.divMain {
+    text-align: center;
+}
+
+canvas {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
